@@ -5,9 +5,9 @@
 | 1| 12 June 2023 | Magic of DL| Introduction to basics| Prof. Chetan Arora |
 | | | [Basics of Machine Learning](https://drive.google.com/file/d/1akB3Tj3HWne5wCdjBsavo2qRzC40c2t9/view?usp=drive_link) | | Dr. Kamlesh Tiwari |
 | | | FC Neural Networks| | Dr. Aditya Nigam |
-| | | Training Evalution and Regularization | | Dr. Kamlesh Tiwari |
+| | | Training Evaluation and Regularization | | Dr. Kamlesh Tiwari |
 | | | Lab01- Introduction to FC networks| Lab|  |
-| 2| 13 June 2023 | Deep Learning in Computer vision| Computer Vision| Prof. Chetan Arora |
+| 2| 13 June 2023 | [Deep Learning in Computer vision](https://drive.google.com/file/d/1fwiTWf1AmSumzaXAehwsevtlxRviOov2/view?usp=drive_link)| Computer Vision| Prof. Chetan Arora |
 | | | Convolution Neural network(CNN)| | Dr. Aditya Nigam |
 | | | Popular CNN Networks| | Dr. Kamlesh Tiwari |
 | | | Object detection and Localization| | Prof. Chetan Arora |
