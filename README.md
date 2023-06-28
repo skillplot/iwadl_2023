@@ -13,7 +13,7 @@
 | | | Object detection and Localization| | Prof. Chetan Arora |
 | | | Lab02- CNN| Lab|  |
 | 3| 14 June 2023 | [Sequence Modeling with RNN & LSTM](https://drive.google.com/file/d/1APcyxOnimjmW1FKjd-2ZqCPnRFqPr1qh/view?usp=drive_link)| Sequences and NLP| Dr. Jyoti Nigam |
-| | | [Transformers-1]([https://drive.google.com/file/d/1wQjul_YH-_y2tY9syMnrb9HKhgE7G0xo/view?usp=drive_link](https://drive.google.com/file/d/15dRIMJkALYwL1rYKBQV8jPOu7u_Y5PqZ/view?usp=drive_link))| | Dr. Aditya Nigam |
+| | | [Transformers-1]([https://drive.google.com/file/d/1wQjul_YH-_y2tY9syMnrb9HKhgE7G0xo/view?usp=drive_link](https://drive.google.com/file/d/15dRIMJkALYwL1rYKBQV8jPOu7u_Y5PqZ/view?usp=drive_link)| | Dr. Aditya Nigam |
 | | | [Transformers-2](https://drive.google.com/file/d/1APcyxOnimjmW1FKjd-2ZqCPnRFqPr1qh/view?usp=drive_link)| | Dr. Aditya Nigam |
 | | | [Large Language Models](https://drive.google.com/file/d/15dRIMJkALYwL1rYKBQV8jPOu7u_Y5PqZ/view?usp=drive_link)| | Dr. Ashutosh Vyas |
 | | | Lab03- RNN,LSTM,Transformers| Lab|  |
